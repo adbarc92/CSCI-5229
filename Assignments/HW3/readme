@@ -1,0 +1,40 @@
+NOTE: This program uses DevIL to load images.  Here are OS installation instructions:
+
+Ubuntu:
+	sudo apt-get install libdevil-dev
+
+Mac (from http://macappstore.org/devil/):
+	ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null
+	brew install devil
+
+Windows (Mingw64 + MSYS2):
+	pacman -S mingw64/mingw-w64-x86_64-devil
+
+This program demonstrates basic lighting and textures on a complex object. 
+
+Controls:
+
+q           - toggle liquid
+x           - toggle axes
++           - zoom in
+-           - zoom out
+
+Arrow keys  - rotate the scene
+1						- orthogonal view
+2						- projection view
+3						- first persion view
+0						- reset the camera to default position
+
+In first person mode
+
+Arrow UP    - move forward
+Arrow DOWN  - move backward
+Arrow LEFT  - turn left
+Arrow RIGHT - turn right
+
+w           - move forward
+s           - move backward
+a           - slide left
+d           - slide right
+
+

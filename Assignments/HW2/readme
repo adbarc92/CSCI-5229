@@ -1,0 +1,21 @@
+This progam draws two airplanes, a turret, and a globe-like bunker on top of a gray platform.
+
+Controls:
+
+Arrow keys  - rotate the scene
+1						- orthogonal view
+2						- projection view
+3						- first persion view
+0						- reset the camera to default position
+
+In first person mode
+
+Arrow UP    - move forward
+Arrow DOWN  - move backward
+Arrow LEFT  - turn left
+Arrow RIGHT - turn right
+
+w           - move forward
+s           - move backward
+a           - slide left
+d           - slide right

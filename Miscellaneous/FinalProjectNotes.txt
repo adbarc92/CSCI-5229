@@ -1,0 +1,23 @@
+// ex22
+
+	• Electricity
+		○ Sprite particles, where each particle is fired at the object with a random offset angle; each particle is attracted to the other object
+		○ https://stackoverflow.com/questions/8640940/rendering-realistic-electric-lightning-using-opengl
+		○ http://www.sulaco.co.za/opengl2.htm
+	• Breaking Glass
+		○ https://gamedev.stackexchange.com/questions/81796/how-can-glass-breaking-effect-from-smash-hit-be-achieved
+		○ Break glass along pre-established lines
+		○ https://tuxedolabs.blogspot.com/2014/05/cracking-destruction_13.html
+		○ https://www.gamedev.net/forums/topic/205750-how-can-i-shatter-my-glass/
+		○ https://stackoverflow.com/questions/9471407/screen-glass-break-effect
+		○ https://community.khronos.org/t/destruction/64644
+	• Shadows
+	• Object Explosion
+		○ Division of objects
+		○ Separation into constituent parts
+	• Electricity Concentration alters sphere intensity
+	• Leylines/Plug-in
+	• Collision Detection
+	• Particle Vertex Shader
+	
+	
